@@ -7,6 +7,8 @@ Simply run this notebook. We've previously tested this file on one Nvidia 3090 G
 # Dataset
 Please kindly refer to [this link](https://paperswithcode.com/dataset/clothing1m) to know about this dataset. Please contact `tong.xiao.work[at]gmail[dot]com` to get the download link. 
 
+![clothing1m](https://production-media.paperswithcode.com/datasets/Clothing1M-0000000432-132e8198_olXM2iD.jpg)
+
 # Recommended Literature
 TBD
 
